@@ -28,6 +28,28 @@
   color: #61dafb;
 }
 
+.img-wrapper img{
+  width: 100px;
+}
+.cart-wrapper{
+  height: 100px;
+  width: 500px;
+  border: 1px;
+}
+
+.btn-wrapper button{
+  background-color: red;
+  border: 0px;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+}
+.add-to-cart img{
+  width: 100px;
+  
+  
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
